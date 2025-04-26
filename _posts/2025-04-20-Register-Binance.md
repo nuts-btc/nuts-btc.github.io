@@ -74,6 +74,8 @@ toc:
 
 半年没有进行交易的老用户，是可以直接进行绑定的，除此之外，请重新注册并按照上述流程进行注册
 
+## 方案一:解绑身份认证
+
 如果需要使用同一个用户身份进行认证，请先解绑当前的身份认证。
 
 <div class="row mt-3">
@@ -81,6 +83,8 @@ toc:
         {% include video.liquid path="/assets/video/Binance-UnbindingKYC.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
+
+## 方案二:注销账户
 
 如果选择注销账户，重新注册，请使用护照进行，认证可以秒过
 
