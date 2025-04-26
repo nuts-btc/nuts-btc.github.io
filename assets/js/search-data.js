@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-币安注册及绑定返佣",
+        },{id: "post-学会维加斯通道-做bnb犹如送钱",
+        
+          title: "学会维加斯通道，做BNB犹如送钱",
+        
+        description: "学会维加斯通道，做BNB犹如送钱",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Vegas-BNB/";
+          
+        },
+      },{id: "post-币安注册及绑定返佣",
         
           title: "币安注册及绑定返佣",
         
